@@ -42,7 +42,8 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Hannah Sugden           | Section 003       | hjs5560              | https://github.com/hjs5560/GitHub-Practice-184                      |  
 | Olivia Beck             | Section 050       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
-| Xihui Xu                | Section 002       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
+| Xihui Xu                | Section 002       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |
+| Aaryushi Gandotra       | Section 002       | aaryushi             | https://github.com/aaryushi/GitHub-Practice-184          |
 
 
 
